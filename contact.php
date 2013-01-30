@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Trafitac.com - Contact Us</title>
+    <title>Trafitac.com - Contact Us Here</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
     <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
@@ -71,7 +71,6 @@
                             </figure>
                         </div>
                         <dl>
-                            <dt class="p2">P.O.Box DS 1043, Dansoman, Accra, Ghana</dt>
                             <dd><span>Head Office:</span>  +233 302 312 228</dd>							
                             <dd><span>Sales:</span>  +233 203 654 550</dd>
                             <dd><span>Fax:</span>  +233 302 310 288</dd>
